@@ -1,0 +1,6 @@
+[submodule "mern-stack-authorization-backend"]
+	path = mern-stack-authorization-backend
+	url = https://github.com/dhruvahuja2301/mern-stack-authorization-backend
+[submodule "mern-stack-authorization-login"]
+	path = mern-stack-authorization-login
+	url = https://github.com/dhruvahuja2301/mern-stack-authorization-login
